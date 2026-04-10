@@ -13,9 +13,10 @@ industry standard ITSM platform.
 ## What I Built
 
 - Created and managed incidents from open to resolution
-- Simulated common help desk scenarios: account lockouts, 
+- Simulated common help desk scenarios: account lockouts,
   VPN issues, new hire provisioning
 - Documented troubleshooting steps and resolution notes
+  following ITSM best practices
 - Practiced queue management and ticket prioritization
 
 ## STAR Breakdown
@@ -40,3 +41,26 @@ ticket queue and follow structured resolution workflows.
 
 ServiceNow · ITSM · Ticket Triage · Incident Management · 
 Documentation · Escalation Workflows · Help Desk Operations
+
+## Screenshots
+
+### Incident Created
+![Incident Created](docs/servicenow_incident_created.png)
+
+### Incident In Progress
+![Incident In Progress](docs/servicenow_incident_in_progress.png)
+
+### Incident Resolved
+![Incident Resolved](docs/servicenow_incident_resolved.png)
+
+### New Hire Request
+![New Hire Request](docs/servicenow_new_hire_request.png)
+
+### VPN Lockout Ticket
+![VPN Lockout](docs/servicenow_vpn_lockout_ticket.png)
+
+### Ticket Queue
+![Ticket Queue](docs/servicenow_ticket_queue.png)
+
+### Incident Dashboard
+![Dashboard](docs/servicenow_incident_dashboard.png)
